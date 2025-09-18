@@ -43,7 +43,7 @@ window.onload=()=>{
 
     //image
     birdimg=new Image();
-    birdimg.src="./images/bread.png"
+    birdimg.src="./images/f7f450dd20e3cd466d8225f9c0c8e5e7.png"
     birdimg.onload=()=>{
         context.drawImage(birdimg,bird.x,bird.y,bird.width,bird.height);
     }
